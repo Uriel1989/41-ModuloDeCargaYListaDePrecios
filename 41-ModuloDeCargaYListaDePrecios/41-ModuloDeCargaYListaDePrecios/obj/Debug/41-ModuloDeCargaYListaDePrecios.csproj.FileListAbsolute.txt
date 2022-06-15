@@ -1,0 +1,6 @@
+C:\Users\tauro\Downloads\Ejercicios de Programacion 2\41-ModuloDeCargaYListaDePrecios\41-ModuloDeCargaYListaDePrecios\bin\Debug\41-ModuloDeCargaYListaDePrecios.exe
+C:\Users\tauro\Downloads\Ejercicios de Programacion 2\41-ModuloDeCargaYListaDePrecios\41-ModuloDeCargaYListaDePrecios\bin\Debug\41-ModuloDeCargaYListaDePrecios.pdb
+C:\Users\tauro\Downloads\Ejercicios de Programacion 2\41-ModuloDeCargaYListaDePrecios\41-ModuloDeCargaYListaDePrecios\obj\Debug\41-ModuloDeCargaYListaDePrecios.csprojAssemblyReference.cache
+C:\Users\tauro\Downloads\Ejercicios de Programacion 2\41-ModuloDeCargaYListaDePrecios\41-ModuloDeCargaYListaDePrecios\obj\Debug\41-ModuloDeCargaYListaDePrecios.csproj.CoreCompileInputs.cache
+C:\Users\tauro\Downloads\Ejercicios de Programacion 2\41-ModuloDeCargaYListaDePrecios\41-ModuloDeCargaYListaDePrecios\obj\Debug\41-ModuloDeCargaYListaDePrecios.exe
+C:\Users\tauro\Downloads\Ejercicios de Programacion 2\41-ModuloDeCargaYListaDePrecios\41-ModuloDeCargaYListaDePrecios\obj\Debug\41-ModuloDeCargaYListaDePrecios.pdb
